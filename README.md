@@ -1,5 +1,5 @@
-# CapstoneProject
-This the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. It is just like the actual project from a business customer. I strived to deliver beyond expectations.
+# HopeGrower Gold
+This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
 <a name="readme-top"></a>
 
 <!--
@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
  
   <br/>
 
-  <h3><b>Mike's Capstone Project</b></h3>
+  <h3><b>HopeGrower Gold</b></h3>
 
 </div>
 
@@ -62,10 +62,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [Capstone Project] <a name="about-project"></a>
+# 📖 [HopeGrower Gold] <a name="about-project"></a>
 
 
-**[Capstone Project]** is the first milestone to get new Micronauts onboard with Figma, Own Responsive Website, Git, GitHub and Linters and how to fulfill the customer requirements.
+**[HopeGrower Gold]** is the first milestone to get new Micronauts onboard with Figma, Own Responsive Website, Git, GitHub and Linters and how to fulfill the customer requirements. This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://www.loom.com/share/e5685f1ec8404da488b524c1d9e6e79a" target="_blank">Mike's Capstone Project Live Demo Link</a>
+<a href="https://github.com/Mike111222/HopeGrower-Gold" target="_blank">HopeGrower Gold Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ Clone this repository to your desired folder by running this command.
 
 ```sh
   cd my-folder
-  git clone git@github.com:Mike111222/CapstoneProject.git
+  git clone git@github.com:Mike111222/HopeGrower-Gold.git
   ```
 
 ### Install
