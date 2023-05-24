@@ -5,8 +5,8 @@
   <meta charset="UTF-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="/styles/styles.css">
-  <link rel="stylesheet" href="/about.html">
+  <link rel="stylesheet" href="./styles/styles.css">
+  <link rel="stylesheet" href="./about.html">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
@@ -19,8 +19,8 @@
   <!-- the navbar (and header) section -->
   <nav class="mini-nav on-desktop">
     <ul class="mininav-menu">
-      <li class="mininav-item"><img src="/img/facebook.svg" alt="facebook"></li>
-      <li class="mininav-item"><img src="/img/twitter.svg" alt="twitter"></li>
+      <li class="mininav-item"><img src="./img/facebook.svg" alt="facebook"></li>
+      <li class="mininav-item"><img src="./img/twitter.svg" alt="twitter"></li>
       <li class="mininav-menu">English</li>
       <li class="mininav-menu">My Page</li>
       <li class="mininav-menu">Logout</li>
@@ -28,7 +28,7 @@
   </nav>
   <header id="myheader">
     <!-- <a class="logo" href="#home">My Logo</a> -->
-    <a class=" logo on-desktop" href="#home"><img src="/img/logo.jpg" class="logo-nav" alt="logo"></a>
+    <a class=" logo on-desktop" href="#home"><img src="./img/logo.jpg" class="logo-nav" alt="logo"></a>
     <nav class="navbar">
       <ul class="nav-menu">
         <li class="nav-item">
@@ -77,11 +77,10 @@
   <section id="program">
     <div>
       <h3 class="program-headline">Main Program</h3>
-      <div class="underline"></div>
     </div>
     <div class="program-container">
       <div class="main-program">
-        <div><img src="/img/program_icon_01.png" alt=""></div>
+        <div><img src="./img/program_icon_01.png" alt=""></div>
         <h3 class="program-subheading">
           Lecture
         </h3>
@@ -90,7 +89,7 @@
         </p>
       </div>
       <div class="main-program">
-        <div><img src="/img/program_icon_02.png" alt=""></div>
+        <div><img src="./img/program_icon_02.png" alt=""></div>
         <h3 class="program-subheading">
           HG Exhibition
         </h3>
@@ -99,7 +98,7 @@
         </p>
       </div>
       <div class="main-program">
-        <div><img src="/img/program_icon_03.png" alt=""></div>
+        <div><img src="./img/program_icon_03.png" alt=""></div>
         <h3 class="program-subheading">
           Forum
         </h3>
@@ -108,7 +107,7 @@
         </p>
       </div>
       <div class="main-program">
-        <div><img src="/img/program_icon_04.png" alt=""></div>
+        <div><img src="./img/program_icon_04.png" alt=""></div>
         <h3 class="program-subheading">
           Workshop
         </h3>
@@ -117,7 +116,7 @@
         </p>
       </div>
       <div class="main-program">
-        <div><img src="/img/program_icon_05.png" alt=""></div>
+        <div><img src="./img/program_icon_05.png" alt=""></div>
         <h3 class="program-subheading">
           HG Ignite
         </h3>
@@ -127,32 +126,43 @@
       </div>
     </div>
     <button type="button" class="join-btn">Join HG Global Summit 2023</button>
+    <div>
+      <h3 class="see-program on-desktop">SEE THE WHOLE PROGRAM</h3>
+    </div>
   </section>
   <!-- the Speakers page -->
-  <section><h3 class="speaker-headline">Featured Speakers</h3></section>
-  <div id="speakers">    
-    
-  </div>
+  <section>
+    <h3 class="speaker-headline">Featured Speakers</h3>
   </section>
-  <!-- the partners section -->
-  <div class="partners-div"><div class="partner-title"><h3>Partners <hr class="line"></h3></div>
-    <div class="partners">
-      <img src="/img/Partners/mozilla 1.png" alt="mozilla" class="partner-logo">
-      <img src="/img/Partners/googlekorea 1.png" alt="google" class="partner-logo">
-      <img src="/img/Partners/naver 1.png" alt="naver" class="partner-logo">
-      <img src="/img/Partners/daumkakaologo 1.png" alt="daumkakaologo" class="partner-logo">
-      <img src="/img/Partners/airbnb 1.png" alt="airbnb" class="partner-logo">
+  <div id="speakers">
+  </div>
+  <button id="showMoreButton">More <img src="./img/arrow_down.png" class="down-arrow" alt=""></button>
+
+</section>
+  <section>
+    <!-- the partners section -->
+    <div class="partners-div">
+      <div class="partner-title">
+        <h3 class="partner-heading">Partners
+        </h3>
+      </div>
+      <div class="partners">
+        <img src="./img/Partners/mozilla 1.png" alt="mozilla" class="partner-logo">
+        <img src="./img/Partners/googlekorea 1.png" alt="google" class="partner-logo">
+        <img src="./img/Partners/naver 1.png" alt="naver" class="partner-logo">
+        <img src="./img/Partners/daumkakaologo 1.png" alt="daumkakaologo" class="partner-logo">
+        <img src="./img/Partners/airbnb 1.png" alt="airbnb" class="partner-logo">
+      </div>
     </div>
-  </div>
   </section>
-  <footer>
+  <footer class="on-home">
     <div class="cc"><img src="/img/logo.jpg" alt="logo">
-      <p class="rights">2023 HopeGrower Gold Pakistan. Some Rights Reserved.</p>
+      <p class="rights home-rights">2023 HopeGrower Gold Pakistan. Some Rights Reserved.</p>
     </div>
 
   </footer>
 
-  <script src="/js/script.js"></script>
+  <script src="js/script.js"></script>
 </body>
 
 </html>
