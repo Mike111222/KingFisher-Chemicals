@@ -257,7 +257,7 @@ header {
 
 button::first-line {
   width: 32px;
-  height: 13px;  
+  height: 13px;
   font-family: var(--font-family);
   font-style: normal;
   font-weight: 700;
@@ -300,7 +300,7 @@ button::first-line {
 .speaker-name,
 .speaker-bio,
 .speaker-details {
-    padding-bottom: 4px;
+  padding-bottom: 4px;
 }
 
 .hr {
@@ -554,17 +554,6 @@ button::first-line {
   color: var(--color-line);
 }
 
-.partner-heading {
-  width: 98px;
-  height: 34px;
-  font-family: var(--font-family);
-  font-style: normal;
-  font-weight: 400;
-  font-size: 20px;
-  line-height: 28px;
-  text-align: center;
-}
-
 footer {
   width: 100%;
   height: auto;
@@ -799,10 +788,6 @@ ul li a {
     border: 3px solid #ec4327;
   }
 
-  .nav-link:hover img {
-    filter: opacity(0.7);
-  }
-
   .hamburger {
     display: none;
     cursor: pointer;
@@ -995,7 +980,7 @@ ul li a {
     letter-spacing: -0.04em;
     color: #fff;
     padding: 2rem 0 2rem 0;
-}
+  }
 
   .join-btn {
     display: none;
@@ -1021,7 +1006,7 @@ ul li a {
     padding: 0 180px;
     padding-bottom: 100px;
   }
-  
+
   .speaker-headline {
     width: 100%;
     height: auto;
@@ -1089,6 +1074,7 @@ ul li a {
     color: #7a7a7a;
     margin-top: 15px;
   }
+
   .summit-img {
     display: flex;
     flex-direction: row;
@@ -1146,7 +1132,7 @@ ul li a {
     letter-spacing: -0.03em;
     color: #838383;
     padding-bottom: 35px;
-}
+  }
 
   .logo-detail {
     width: 60%;
@@ -1210,9 +1196,9 @@ ul li a {
   .on-home {
     background: #f2f2f2;
   }
-  
+
   .home-rights {
-    color: #000000 !important;
+    color: #000 !important;
   }
 
   .about-rights {
