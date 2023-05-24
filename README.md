@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://mike111222.github.io/CapstoneProject/" target="_blank">Mike's Capstone Project Live Demo Link</a>
+<a href="https://www.loom.com/share/e5685f1ec8404da488b524c1d9e6e79a" target="_blank">Mike's Capstone Project Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
