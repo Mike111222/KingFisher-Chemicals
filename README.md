@@ -210,7 +210,7 @@ If you like this project, just reach out to me for more projects even better tha
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
 
-I would like to thank my dear friend Salman Ahmad Khan, my code reviewers and Microverse and the owner of the Behance Design, from where I have taken the design insights and styles ideas.
+I would like to thank my dear friend Salman Ahmad Khan, my code reviewers and Microverse and the owner of the Behance Design Cindy Shin, from where I have taken the design insights and styles ideas.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
