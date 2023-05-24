@@ -168,8 +168,8 @@ header {
 }
 
 .program-info {
-  width: 192px;
-  height: 82.06px;
+  width: 100%;
+  height: auto;
   font-family: var(--font-family);
   font-style: normal;
   font-weight: 700;
@@ -744,16 +744,15 @@ ul li a {
 
   .nav-menu {
     display: flex;
-    justify-content: space-between;
-    align-items: center;
-    gap: 60px;
-    left: 38px;
-    top: 0;
-    position: relative;
+    width: 60%;
+    gap: 0;
+    left: 390px;
+    top: 38px;
     flex-direction: row;
-    padding-right: 100px;
     background: none;
     color: #3c3a39;
+    justify-content: space-between;
+    position: absolute;
   }
 
   .nav-item {
@@ -800,7 +799,7 @@ ul li a {
   .logo-nav {
     width: 85px;
     height: auto;
-    margin-left: 85px;
+    margin-left: -33px;
   }
 
   header a img:hover {
@@ -879,9 +878,10 @@ ul li a {
   }
 
   .headline {
-    margin-left: 240px;
+    margin-left: 120px;
     margin-top: 92px;
-    margin-right: 462px;
+    margin-right: 0;
+    width: 70%;
   }
 
   .headline-about {
@@ -889,6 +889,7 @@ ul li a {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin-right: 210px;
   }
 
   .heading1 {
@@ -904,11 +905,11 @@ ul li a {
 
   .main-detail {
     box-sizing: border-box;
-    width: 756.21px;
+    width: 70%;
     height: 180.56px;
     background: #f8f8f8;
     border: 3px solid #fff;
-    margin-left: 200px !important;
+    margin-left: 120px !important;
   }
 
   .about-detail {
@@ -921,7 +922,7 @@ ul li a {
   }
 
   .date-venue {
-    margin-left: 240px;
+    margin-left: 120px;
   }
 
   .dates {
@@ -1003,7 +1004,7 @@ ul li a {
   #speakers {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    padding: 0 180px;
+    margin: 0 175px;
     padding-bottom: 100px;
   }
 
@@ -1061,7 +1062,7 @@ ul li a {
   }
 
   .email-contact {
-    width: 70%;
+    width: 72%;
     height: auto;
     font-family: var(--font-family);
     font-style: normal;
