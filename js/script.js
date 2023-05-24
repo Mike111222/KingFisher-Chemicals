@@ -86,7 +86,6 @@ allSpeakers.map((card) => {
   return ('');
 });
 
-
 const showMoreButton = document.getElementById('showMoreButton');
 const maxMobileSpeakers = 2; // Maximum number of speakers to display on mobile
 let currentSpeakers = []; // Currently displayed speakers
@@ -112,7 +111,7 @@ function createSpeakerCard(card) {
 function renderSpeakers(speakers) {
   speakersContainer.innerHTML = '';
 
-  for (let i = 0; i < speakers.length; i++) {
+  for (let i = 0; i < speakers.length; i += 1) {
     const speakerCard = createSpeakerCard(speakers[i]);
     speakersContainer.innerHTML += speakerCard;
   }
@@ -127,7 +126,7 @@ function showMoreSpeakers() {
 }
 
 // Event listener for window resize
-window.addEventListener('resize', function () {
+window.addEventListener('resize', () => {
   if (window.innerWidth <= 767) {
     if (currentSpeakers.length > maxMobileSpeakers) {
       renderSpeakers(currentSpeakers.slice(0, maxMobileSpeakers));
@@ -143,7 +142,7 @@ window.addEventListener('resize', function () {
 });
 
 // Initial rendering based on screen width
-window.addEventListener('DOMContentLoaded', function () {
+window.addEventListener('DOMContentLoaded', () => {
   if (window.innerWidth <= 767) {
     const initialSpeakers = allSpeakers.slice(0, maxMobileSpeakers);
     renderSpeakers(initialSpeakers);
