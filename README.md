@@ -1,5 +1,5 @@
 # HopeGrower Agronomy
-This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements. This project is all about summits of HopeGrower Agronomy. It pays the tribute and brings together the people from all around the globe who are working in Farming, Food, Agronomy, Agriculture and it empowers the slogan: "Food is the New Gold"
+This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements. This project is all about summits of HopeGrower Agronomy. It pays the tribute and brings together the people from all around the globe who are working in Farming, Food, Agronomy, Agriculture and it empowers the slogan: "Food is the New Gold."
 <a name="readme-top"></a>
 
 <!--
