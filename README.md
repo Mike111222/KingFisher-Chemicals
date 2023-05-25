@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
  
   <br/>
 
-  <h3><b>HopeGrower Gold</b></h3>
+  <h3><b>HopeGrower Agronomy</b></h3>
 
 </div>
 
