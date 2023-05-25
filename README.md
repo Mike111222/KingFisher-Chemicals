@@ -62,10 +62,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HopeGrower Gold] <a name="about-project"></a>
+# 📖 [HopeGrower Agronomy] <a name="about-project"></a>
 
 
-**[HopeGrower Gold]** is the first milestone to get new Micronauts onboard with Figma, Own Responsive Website, Git, GitHub and Linters and how to fulfill the customer requirements. This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
+**[HopeGrower Agronomy]** is the first milestone to get new Micronauts onboard with Figma, Own Responsive Website, Git, GitHub and Linters and how to fulfill the customer requirements. This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://mike111222.github.io/HopeGrower-Gold/" target="_blank">HopeGrower Gold Live Demo Link</a>
+<a href="https://mike111222.github.io/HopeGrower-Agronomy/" target="_blank">HopeGrower Gold Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ Clone this repository to your desired folder by running this command.
 
 ```sh
   cd my-folder
-  git clone git@github.com:Mike111222/HopeGrower-Gold.git
+  git clone git@github.com:Mike111222/HopeGrower-Agronomy.git
   ```
 
 ### Install
