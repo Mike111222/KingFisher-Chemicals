@@ -112,6 +112,10 @@ header {
   padding-bottom: 70px;
 }
 
+.date-venue {
+  margin-left: 10px;
+}
+
 #program {
   background-image: url(../img/blackbg.jpg);
   background-repeat: no-repeat;
