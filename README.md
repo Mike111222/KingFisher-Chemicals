@@ -1,4 +1,4 @@
-# HopeGrower Gold
+# HopeGrower Agronomy
 This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
 <a name="readme-top"></a>
 
