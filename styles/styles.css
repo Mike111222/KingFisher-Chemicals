@@ -158,8 +158,8 @@ header {
 }
 
 .program-subheading {
-  width: 65.11px;
-  height: 24.08px;
+  width: 20%;
+  height: auto;
   font-family: var(--font-family);
   font-style: normal;
   font-weight: 700;
@@ -169,10 +169,11 @@ header {
   align-items: center;
   letter-spacing: -0.01em;
   color: #ff5438;
+  margin-left: 0.5em;
 }
 
 .program-info {
-  width: 100%;
+  width: 80%;
   height: auto;
   font-family: var(--font-family);
   font-style: normal;
@@ -385,19 +386,20 @@ button::first-line {
 }
 
 .logo-heading {
-  width: 227px;
-  height: 56px;
+  width: 90%;
+  height: auto;
   font-family: var(--font-family);
   font-style: normal;
   font-weight: 700;
   font-size: 20px;
   line-height: 28px;
   color: #2c2c2c;
+  text-align: center;
 }
 
 .logo-detail {
-  width: 380px;
-  height: 50px;
+  width: 90%;
+  height: auto;
   font-family: var(--font-family);
   font-style: normal;
   font-weight: 600;
@@ -406,6 +408,9 @@ button::first-line {
   letter-spacing: -0.03em;
   color: #838383;
   padding: 12px 5px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 10px;
 }
 
 .logo-img {
@@ -750,7 +755,7 @@ ul li a {
     display: flex;
     width: 60%;
     gap: 0;
-    left: 390px;
+    left: 400px;
     top: 38px;
     flex-direction: row;
     background: none;
@@ -918,7 +923,7 @@ ul li a {
 
   .about-detail {
     box-sizing: border-box;
-    width: 850px;
+    width: 85%;
     height: auto;
     background: #f8f8f8;
     border: 3px solid #fff;
@@ -986,6 +991,36 @@ ul li a {
     color: #fff;
     padding: 2rem 0 2rem 0;
   }
+
+  .program-subheading {
+    width: 60%;
+    height: auto;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 25px;
+    display: flex;
+    align-items: center;
+    letter-spacing: -0.01em;
+    color: #ff5438;
+    margin-left: 0.5em;
+  }
+  
+  .program-info {
+    width: 80%;
+    height: auto;
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 22px;
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.06em;
+    color: #fff;
+  }
+  
 
   .join-btn {
     display: none;
