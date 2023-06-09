@@ -137,7 +137,7 @@ Clone this repository to your desired folder by running this command.
 
 ```sh
   cd my-folder
-  git clone git@github.com:Mike111222/HopeGrower-Agronomy.git
+  git clone git@github.com:Mike111222/KingFisher-Chemicals.git
   ```
 
 ### Install
