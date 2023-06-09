@@ -1,5 +1,5 @@
 # KingFisher Chemicals
-This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements. This project is all about summits of HopeGrower Agronomy. It pays the tribute and brings together the people from all around the globe who are working in Farming, Food, Agronomy, Agriculture and it empowers the slogan: "Food is the New Gold."
+"This project is all about telling and raising awareness among farmers, agronomists and people around the globe about a conference, emphasizing "Food is the New Gold". HTML, CSS and JavaScript best practices were followed. Users can get complete details about the Program, Speakers, Partners, Dates and Venue. This project can be run on local host."
 <a name="readme-top"></a>
 
 <!--
@@ -65,7 +65,7 @@ After you're finished please remove all the comments and instructions!
 # 📖 [KingFisher Chemicals] <a name="about-project"></a>
 
 
-**[KingFisher Chemicals]** is the first milestone to get new Micronauts onboard with Figma, Own Responsive Website, Git, GitHub and Linters and how to fulfill the customer requirements. This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
+**[KingFisher Chemicals]** "This project is all about telling and raising awareness among farmers, agronomists and people around the globe about a conference, emphasizing "Food is the New Gold". HTML, CSS and JavaScript best practices were followed. Users can get complete details about the Program, Speakers, Partners, Dates and Venue. This project can be run on local host."
 
 ## 🛠 Built With <a name="built-with"></a>
 
