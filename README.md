@@ -1,5 +1,5 @@
-# HopeGrower Agronomy
-This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements. This project is all about summits of HopeGrower Agronomy. It pays the tribute and brings together the people from all around the globe who are working in Farming, Food, Agronomy, Agriculture and it empowers the slogan: "Food is the New Gold."
+# KingFisher Chemicals
+"This project is all about telling and raising awareness among farmers, agronomists and people around the globe about a conference, emphasizing "Food is the New Gold". HTML, CSS and JavaScript best practices were followed. Users can get complete details about the Program, Speakers, Partners, Dates and Venue. This project can be run on local host."
 <a name="readme-top"></a>
 
 <!--
@@ -32,7 +32,7 @@ After you're finished please remove all the comments and instructions!
  
   <br/>
 
-  <h3><b>HopeGrower Agronomy</b></h3>
+  <h3><b>KingFisher Chemicals</b></h3>
 
 </div>
 
@@ -62,10 +62,10 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [HopeGrower Agronomy] <a name="about-project"></a>
+# 📖 [KingFisher Chemicals] <a name="about-project"></a>
 
 
-**[HopeGrower Agronomy]** is the first milestone to get new Micronauts onboard with Figma, Own Responsive Website, Git, GitHub and Linters and how to fulfill the customer requirements. This is the Capstone Project of Module-1. I have created it with HTML, CSS and JavaScript. I have followed the design guidelines to make it perfectly like the requirements.
+**[KingFisher Chemicals]** "This project is all about telling and raising awareness among farmers, agronomists and people around the globe about a conference, emphasizing "Food is the New Gold". HTML, CSS and JavaScript best practices were followed. Users can get complete details about the Program, Speakers, Partners, Dates and Venue. This project can be run on local host."
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -103,7 +103,7 @@ After you're finished please remove all the comments and instructions!
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-<a href="https://mike111222.github.io/HopeGrower-Agronomy/" target="_blank">HopeGrower Agronomy Live Demo Link</a>
+<a href="https://mike111222.github.io/KingFisher-Chemicals/" target="_blank">KingFisher Chemicals Live Demo Link</a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -137,7 +137,7 @@ Clone this repository to your desired folder by running this command.
 
 ```sh
   cd my-folder
-  git clone git@github.com:Mike111222/HopeGrower-Agronomy.git
+  git clone git@github.com:Mike111222/KingFisher-Chemicals.git
   ```
 
 ### Install
