@@ -883,7 +883,7 @@ ul li a {
     display: flex;
     flex-direction: column;
     gap: 42px;
-    padding-top: 100px;
+    padding-top: 1px;
   }
 
   .headline {
